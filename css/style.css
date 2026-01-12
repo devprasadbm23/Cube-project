@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Inter, Arial, sans-serif;
+  overflow-y: hidden;
 }
 .site-container {
   max-width: 1240px;
